@@ -1,0 +1,6 @@
+framework module Pods_api_video_iOS_demo {
+  umbrella header "Pods-api.video iOS demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
